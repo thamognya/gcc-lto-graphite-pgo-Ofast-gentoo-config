@@ -1,0 +1,1 @@
+# LUA_SINGLE_TARGET="luajit" USE="lua_single_target_luajit" emerge -a =app-editors/neovim-_._._ lua luajit luarocks

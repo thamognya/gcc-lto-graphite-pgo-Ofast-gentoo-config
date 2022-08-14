@@ -1,0 +1,14 @@
+# package.accept_keywords# required by =sys-kernel/gentoo-sources-5.19.1 (argument)
+=sys-kernel/gentoo-sources-5.19.1 ~amd64
+# required by sys-config/ltoize (argument)
+=sys-config/ltoize-0.9.10 ~amd64
+# required by =app-admin/doas-6.8.2 (argument)
+=app-admin/doas-6.8.2 ~amd64
+# required by chromium-bin (argument)
+=www-client/chromium-bin-104.0.5112.79 ~amd64
+# required by =www-client/firefox-103.0.2 (argument)
+=www-client/firefox-103.0.2 ~amd64
+# required by net-misc/networkmanager-1.38.2::gentoo
+# required by @selected
+# required by @world (argument)
+=dev-libs/nss-3.81 ~amd64

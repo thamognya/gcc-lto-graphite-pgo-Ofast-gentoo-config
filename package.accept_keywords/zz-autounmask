@@ -12,3 +12,7 @@
 # required by @selected
 # required by @world (argument)
 =dev-libs/nss-3.81 ~amd64
+# required by vscode (argument)
+=app-editors/vscode-1.70.1 ~amd64
+# required by =www-apps/gitea-1.17.0 (argument)
+=www-apps/gitea-1.17.0 ~amd64
